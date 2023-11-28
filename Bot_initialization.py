@@ -1,7 +1,7 @@
 from openai import OpenAI
 from Intial_contexts import *
 
-OPENAI_KEY = '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'
+OPENAI_KEY = 'API KEY'
 
 client = OpenAI(api_key=OPENAI_KEY)
 
